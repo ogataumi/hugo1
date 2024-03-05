@@ -96,9 +96,9 @@ uglyURLs = false
 # 作者信息
 [author]
     # 名字
-    name = "umi"
+    name = "潇洒地走进失败的人生"
     # 邮箱
-    email = "reuixiy@gmail.com"
+    email = "haishanghuangquan@163.com"
     # 座右铭或简介
     motto = "Viva La Vida"
     # 头像
@@ -133,7 +133,7 @@ uglyURLs = false
     mediaType = "application/atom+xml"
     baseName = "atom"
 
-# MemE 主题自定义的 RSS 模板
+ MemE 主题自定义的 RSS 模板
 [outputFormats.SectionsRSS]
     mediaType = "application/rss+xml"
     baseName = "rss"
